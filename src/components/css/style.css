@@ -4,6 +4,14 @@
   box-sizing: border-box;
 }
 
+.color-blue {
+  color: #2DC7ED;
+}
+
+.container-posts {
+  display: flex;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: white;
   font-family: "Poppins", sans-serif;
@@ -682,6 +690,7 @@ a {
 .container {
   min-width: 1200px;
   margin: 0 auto;
+  padding: 8px 24px;
 }
 
 .border {
@@ -713,4 +722,11 @@ a {
   border-radius: 4px;
   color: #FAFCFC;
   padding: 8px;
+}
+
+.img-profile {
+  width: 56px;
+  height: 55px;
+  background-color: #4E4E50;
+  border-radius: 50%;
 }/*# sourceMappingURL=style.css.map */
