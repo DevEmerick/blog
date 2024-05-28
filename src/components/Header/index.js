@@ -9,7 +9,7 @@ const Header = () => {
           <img src={logo} alt={descLogo} />
         </div>
         <div className="search">
-          <input type="text" className="input-search" name="search" />
+          <input type="text" className="input-search" name="search" placeholder="Barra de pesquisa."/>
         </div>
         <div>
           <ul className="menu">

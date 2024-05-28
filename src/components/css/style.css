@@ -715,8 +715,8 @@ a {
 }
 
 .input-search {
-  height: 48px;
-  min-width: 300px;
+  height: 32px;
+  min-width: 400px;
   background-color: #15171A;
   border: 0;
   border-radius: 4px;
